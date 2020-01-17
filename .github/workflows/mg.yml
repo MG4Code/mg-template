@@ -6,5 +6,8 @@ on:
       - master
 
 jobs:
-  name: template
-  run: echo "MG Temaple"
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Example
+      run: echo "MG Temaple"
