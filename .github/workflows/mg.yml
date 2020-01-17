@@ -4,3 +4,7 @@ on:
   push:
     branches:
       - master
+
+jobs:
+  name: template
+  run: echo "MG Temaple"
