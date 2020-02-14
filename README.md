@@ -1,3 +1,5 @@
+![](https://github.com/MG4Code/mg-template/workflows/Prepare/badge.svg)
+
 # mg-template
 template repo for mg
 
